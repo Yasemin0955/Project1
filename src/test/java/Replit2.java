@@ -13,7 +13,10 @@ public class Replit2 {
 
         System.out.println(countOne(a,b));
 
+        int[] c = {6,1,3};
+        int [] d = {4,2};
 
+        System.out.println(countOne(c,d));
 
 
     }
