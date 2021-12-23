@@ -8,6 +8,10 @@ public class ReplitQ1 {
         int[] y = {2,3};
         System.out.println(has23(y));
 
+        int[] z = {12,30,42};
+        System.out.println(has23(z));
+
+
 
 
     }
