@@ -11,9 +11,6 @@ public class ReplitQ1 {
         int[] z = {12,30,42};
         System.out.println(has23(z));
 
-
-
-
     }
     public static boolean has23(int[] num) {
         int dummy1 = 0;
