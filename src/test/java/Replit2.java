@@ -8,6 +8,13 @@ public class Replit2 {
 
         System.out.println(countOne(x,y));
 
+        int[] a = {7,2,3};
+        int [] b = {1};
+
+        System.out.println(countOne(a,b));
+
+
+
 
     }
     public static int countOne(int[] x , int[] y) {
