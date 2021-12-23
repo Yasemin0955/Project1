@@ -2,7 +2,7 @@ public class Replit2 {
 
     public static void main(String[] args) {
 
-
+  // Arrays with method sorusu mu?
         int[] x = {1,2,3};
         int [] y = {1,3};
 
