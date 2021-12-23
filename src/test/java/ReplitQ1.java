@@ -5,6 +5,10 @@ public class ReplitQ1 {
         int[] x = {2,2};
         System.out.println(has23(x));
 
+        int[] y = {2,3};
+        System.out.println(has23(y));
+
+
 
     }
     public static boolean has23(int[] num) {
